@@ -1,6 +1,11 @@
 ## Available Scripts
 
+Install all packages first using following Comman
+
 ### `npm install`
+
+just in the Project directory
+
 
 In the project directory, you can run:
 
